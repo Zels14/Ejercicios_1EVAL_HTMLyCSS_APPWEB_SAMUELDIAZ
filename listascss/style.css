@@ -1,0 +1,6 @@
+ul{
+    list-style: upper-roman;
+}
+ol{
+    list-style-image:url(./img/foto.png)
+}
